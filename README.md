@@ -11,9 +11,9 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rraymondx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-#
+
 --- 
-#
+
 
 ## 🖥️ Languages and Tools
 
@@ -27,7 +27,7 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 #
-#
+
 
 ### 📊 Stats
 
