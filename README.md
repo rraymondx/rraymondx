@@ -36,7 +36,8 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 
 ## 📊 Stats
 
-![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
+![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img width=468 src='https://github-readme-streak-stats.herokuapp.com/?user=rraymondx&theme=vue-dark&hide_border=true'>
 <img width=468 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <br>
