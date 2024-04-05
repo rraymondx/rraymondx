@@ -11,7 +11,11 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rraymondx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<br>
+
+--- 
+
+<br>
 
 ### 🖥️ Languages and Tools
 
@@ -33,17 +37,45 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 ![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
-<!--
-**rraymondx/rraymondx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- HowRu -->
+## Project Showcase
+
+<a id="project_showcase"></a>
+
+[![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
+
+HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
+
+Project Repository | [HowRu]
+
+Key Focus:
+* Mental Health Social Media App
+* Spreading positivity within the community
+* Encouraging others to have meaningful conversations
+
+Key Contribution:
+* Colour and theme coordinations 
+* Messaging chain's functionality 
+* 
+
+<hr>
+<br>
+
+<p align="right"><a href="#project_showcase">back to top</a></p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+<!-- Bio -->
+[BCIT]: https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/
+
+<!-- HowRu Project -->
+[product-screenshot]: images/HowRu.png
+[HowRu]: https://github.com/rraymondx/1800_202330_BBY25
