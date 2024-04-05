@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # 🎲 rraymondx
 
 **`Digital Craftsman (CST Student)`**
@@ -46,8 +48,6 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 <!-- HowRu -->
 ## Project Showcase | [HowRu]
 
-<a id="project_showcase"></a>
-
 [![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
 
 HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
@@ -65,7 +65,7 @@ Key Contribution:
 <hr>
 <br>
 
-<p align="right"><a href="#project_showcase">back to top</a></p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
