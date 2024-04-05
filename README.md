@@ -36,7 +36,6 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 
 ## 📊 Stats
 
-
 ![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
 <img width=468 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
@@ -63,6 +62,23 @@ Key Contribution:
 * Colour and theme coordinations 
 * Messaging chain's functionality 
 * Space's functionality
+
+<hr>
+<br>
+
+<!-- Personal Website -->
+## 💾 Project Showcase | [Personal Website]
+
+<!-- [![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/) -->
+
+A personal website displaying all my achievements, projects, and any extra infomation.
+
+Key Focus:
+* Job Experience
+* Coding Projects
+* Hobbies
+
+To Be Announce
 
 <hr>
 <br>
