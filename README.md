@@ -1,4 +1,4 @@
-### 🎲 rraymondx
+# 🎲 rraymondx
 
 **`Digital Craftsman (CST Student)`**
 
@@ -11,13 +11,11 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rraymondx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<br>
-
+#
 --- 
+#
 
-<br>
-
-### 🖥️ Languages and Tools
+## 🖥️ Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -28,23 +26,21 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<br />
-
+#
 #
 
 ### 📊 Stats
 
 ![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=468 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
-<br>
-
---- 
-
-<br>
+#
+#
 
 <!-- HowRu -->
 ## Project Showcase
+#
+---
 
 <a id="project_showcase"></a>
 
