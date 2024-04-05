@@ -11,11 +11,12 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rraymondx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-
---- 
-
+<br>
+<br>
 
 ## 🖥️ Languages and Tools
+
+---
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -26,20 +27,22 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-#
+<br>
+<br>
 
+## 📊 Stats
 
-### 📊 Stats
+---
 
 ![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
 <img width=468 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
-#
-#
+<br>
+<br>
 
 <!-- HowRu -->
-## Project Showcase
-#
+## Project Showcase | [HowRu]
+
 ---
 
 <a id="project_showcase"></a>
@@ -47,8 +50,6 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 [![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
 
 HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
-
-Project Repository | [HowRu]
 
 Key Focus:
 * Mental Health Social Media App
@@ -58,7 +59,7 @@ Key Focus:
 Key Contribution:
 * Colour and theme coordinations 
 * Messaging chain's functionality 
-* 
+* Space's functionality
 
 <hr>
 <br>
