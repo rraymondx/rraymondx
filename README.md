@@ -48,7 +48,7 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 <br>
 
 <!-- HowRu -->
-## Project Showcase | [HowRu]
+## 💾 Project Showcase | [HowRu]
 
 [![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
 
