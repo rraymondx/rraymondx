@@ -31,6 +31,7 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 ### 📊 Stats
 
 ![rraymondx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraymondx&show_icons=true&theme=gruvbox)
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rraymondx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <!--
 **rraymondx/rraymondx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
