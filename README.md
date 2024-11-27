@@ -49,26 +49,6 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 
 [![DisasterNot App Screen Shot][product-screenshot-DSN]](https://youtu.be/jjTzf_E9UWo)
 
-HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
-
-Key Focus:
-* Mental Health Social Media App
-* Spreading positivity within the community
-* Encouraging others to have meaningful conversations
-
-Key Contribution:
-* Colour and theme coordinations 
-* Messaging chain's functionality 
-* Space's functionality
-
-<hr>
-<br>
-
-<!-- HowRu -->
-## 💾 Project Showcase | [HowRu]
-
-[![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
-
 DisasterNot, app that aims to provide help to those who are worried about how to prepare for a natural disaster and uses AI to predict the damages of disasters before they happen.
 
 Key Focus:
@@ -80,6 +60,26 @@ Key Contribution:
 * Backend for the OpenAI API calls 
 * UI/UX Aspect 
 * Login Security Functionalities
+
+<hr>
+<br>
+
+<!-- HowRu -->
+## 💾 Project Showcase | [HowRu]
+
+[![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
+
+HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
+
+Key Focus:
+* Mental Health Social Media App
+* Spreading positivity within the community
+* Encouraging others to have meaningful conversations
+
+Key Contribution:
+* Colour and theme coordinations 
+* Messaging chain's functionality 
+* Space's functionality
 
 <hr>
 <br>
