@@ -44,10 +44,10 @@ I'm currently a CST student at [BCIT]. I love creating apps that solve real-life
 
 <br>
 
-<!-- HowRu -->
-## 💾 Project Showcase | [HowRu]
+<!-- DisasterNot -->
+## 💾 Project Showcase | [DisasterNot]
 
-[![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
+[![DisasterNot App Screen Shot][product-screenshot-DSN]](https://youtu.be/jjTzf_E9UWo)
 
 HowRu is a mobile focused app created by me alongside with 2 other groupmates. I was the technical lead designer for the team, mainly focusing on the aesthetic aspect of the web mobile app.
 
@@ -64,19 +64,37 @@ Key Contribution:
 <hr>
 <br>
 
+<!-- HowRu -->
+## 💾 Project Showcase | [HowRu]
+
+[![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/)
+
+DisasterNot, app that aims to provide help to those who are worried about how to prepare for a natural disaster and uses AI to predict the damages of disasters before they happen.
+
+Key Focus:
+* Aims to provide guidance during a natural disasters
+* OpenAI Chatbot to help predict the damages of natural disasters
+* Encouraging others to protect the environment
+
+Key Contribution:
+* Backend for the OpenAI API calls 
+* UI/UX Aspect 
+* Login Security Functionalities
+
+<hr>
+<br>
+
 <!-- Personal Website -->
 ## 💾 Project Showcase | [Personal Website]
 
-<!-- [![HowRu App Screen Shot][product-screenshot]](https://howru2-fcdff.web.app/) -->
+[![Personal Website][product-screenshot-personal]](https://rraymondx.netlify.app/)
 
-A personal website displaying all my achievements, projects, and any extra infomation.
+A personal website displaying all my achievements, projects, and work experiences.
 
 Key Focus:
 * Job Experience
 * Coding Projects
 * Hobbies
-
-To Be Announce
 
 <hr>
 <br>
@@ -93,3 +111,11 @@ To Be Announce
 <!-- HowRu Project -->
 [product-screenshot]: images/HowRu.png
 [HowRu]: https://github.com/rraymondx/1800_202330_BBY25
+
+<!-- DisasterNot Project -->
+[product-screenshot-DSN]: images/DisasterNot.jpg
+[DisasterNot]: https://github.com/rraymondx/2800-202410-BBY28
+
+<!-- Personal Project -->
+[product-screenshot-personal]: images/PersonalWebsite.png
+[Personal Website]: https://github.com/rraymondx/personal_website
